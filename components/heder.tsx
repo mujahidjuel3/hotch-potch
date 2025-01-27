@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Image from "next/image";
 import Logo from "../public/logo.svg";
+import Link from "next/link";
 
 const Header = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -42,9 +43,11 @@ const Header = () => {
 
         {/* Buttons for Medium Screens */}
         <div className="hidden md:flex items-center space-x-4">
+        <Link href="/login">
           <button className="text-gray-300 hover:text-white border rounded-md px-4 py-2">
             Log in
           </button>
+          </Link>
           <button className="px-6 py-2 bg-gradient-to-r from-blue-600 to-pink-600 rounded-md text-white">
             Get Started Free
           </button>
@@ -91,9 +94,11 @@ const Header = () => {
 
           {/* Sidebar Buttons */}
           <div className="mt-8">
+          <Link href="/login">
             <button className="block w-full text-left text-gray-300 border rounded-md px-4 py-2 hover:text-white">
               Log in
             </button>
+            </Link>
             <button className="block w-full mt-4 px-4 py-2 bg-gradient-to-r from-blue-600 to-pink-600 rounded-md text-white">
               Get Started Free
             </button>

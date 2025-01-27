@@ -27,7 +27,7 @@ const FeaturesSection2 = () => {
         </div>
 
         {/* Right Section */}
-        <div className="w-[23rem] md:w-[35rem] h-[35rem] lg:h-[35rem] relative items-center justify-center">
+        <div className="w-[22rem] md:w-[35rem] h-[35rem] lg:h-[35rem] relative items-center justify-center">
           <div className="gap-7 bg-white flex text-black p-6 rounded-lg shadow-md h-[30rem]">
             <div className="text-gray-300 text-xs space-y-4 mt-2">
               <p>Blog Outline</p>
@@ -66,7 +66,7 @@ const FeaturesSection2 = () => {
               <p className="text-sm text-gray-700 mb-4">
                 Here&apos;s what our AI came up with:
               </p>
-              <div className="w-[16rem] md:w-[24rem]">
+              <div className="w-[15rem] md:w-[24rem]">
                 <div className="w-full px-4 py-2  bg-[#FAFAFA] mt-40 rounded-md">
                   <div className="h-2 rounded-full overflow-hidden">
                     <div className="bg-[#B7B8BB] h-full rounded-full w-2/5"></div>
@@ -104,7 +104,7 @@ const FeaturesSection2 = () => {
 
               {/* Absolute Positioned Dot Colors */}
 
-              <div className="w-[16rem] md:w-[24em] h-[8rem] md:h-[7rem] bg-black p-4 absolute top-24 right-0 left-28 md:left-[140px] rounded-lg">
+              <div className="w-[15rem] md:w-[24em] h-[8rem] md:h-[7rem] bg-black p-4 absolute top-24 right-0 left-28 md:left-[140px] rounded-lg">
                 <div className="w-full px-0 mt-1">
                   <div className="h-2 rounded-full overflow-hidden">
                     <div className="bg-[#FAFAFA] h-full rounded-full w-2/5"></div>
