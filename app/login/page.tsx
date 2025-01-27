@@ -54,12 +54,21 @@ export default function Login() {
            />
            {errors.password && <p className="text-red-500 text-sm">{errors.password.message}</p>}
          </div>
-          <Link href="/register">
+          <Link href="/">
           <button
             type="submit"
             className="w-full mt-6 py-2 bg-gradient-to-r from-blue-600 to-pink-600 text-white font-medium rounded-md"
           >
             Login
+          </button>
+          </Link>
+          <p>or</p>
+          <Link href="/register">
+          <button
+            type="submit"
+            className="w-full py-2 mt-6 bg-gradient-to-r from-blue-600 to-pink-600 text-white font-medium rounded-md"
+          >
+            Sign up
           </button>
           </Link>
         </form>
