@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "plan": "Starter Plan",
+        "price": "$29",
+        "month": "/month",
+        "description": "This package is suitable for teams 1-15 people.",
+        "title": "What's included:",
+        "description1": "This is too quality product. No need to think twice before making it live on web. No need to think twice before making it live on web.too quality product. No need to think twice before "
+       
+    },
+    {
+        "id":2,
+        "plan": "Basic Plan",
+        "price": "$79",
+        "month": "/month",
+        "description": "This package is suitable for teams 1-50 people.",
+        "title": "What's included:",
+        "description1": "This is too quality product. No need to think twice before making it live on web.too quality product. No need to think twice before making it live"
+    
+    },
+    {
+        "id":3,
+        "plan": "Premium Plan",
+        "price": "$129",
+        "month": "/month",
+        "description": "This package is suitable for teams 1-100 people.",
+        "title": "What's included:",
+        "description1": "This is too quality product. No need to think twice before making it live on web.too quality product. No need to think twice before making it live on web.too quality product. No need "
+        
+    } 
+
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+      
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#make_it_fast"
+    },
+    {
+        "id":2,
+      
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#make_it_fast"
+    },
+    {
+        "id":3,
+      
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#another"
+    },
+    {
+        "id":4,
+       
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#make_it_fast"
+    },
+    {
+        "id":5,
+   
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#another"
+    },
+    {
+        "id":6,
+        
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#make_it_fast"
+    },
+    {
+        "id":7,
+       
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#dev_tools"
+    },
+    {
+        "id":8,
+        "image": "/juel.jpg",
+        "title": "Mujahid Juel",
+        "title2": "@mujahidjuel",
+        "description": "This is too quality product. No need to think twice before making it live on web.",
+        "tag": "#make_it_fast"
+    }
+
+]
